@@ -1,2 +1,2 @@
-# pygoa.github.io
+# PyGoa
 Website for PyGoa
