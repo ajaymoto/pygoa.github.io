@@ -7,7 +7,7 @@ Design a logo for PyGoa
 Steps to follow:
 1. Fork this repository
 2. Clone it
-3. Add .png of the logo in folder. Please name it as PyGoa_Logo_*YourName*
+3. Add .png of the logo in folder [logos](logos). Please name it as PyGoa_Logo_*YourName*
 4. Send a PR
 
 The best logo will be selected as our official logo
